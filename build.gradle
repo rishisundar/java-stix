@@ -262,7 +262,7 @@ dependencies {
 	compile "org.apache.httpcomponents:httpmime:4.3.5"
 	compile "org.apache.httpcomponents:fluent-hc:4.3.5"
 
-	compile "org.springframework:spring-core:4.1.4.RELEASE"
+	compile "org.springframework:spring-core:5.3.18"
 
 	compile "commons-io:commons-io:2.4"
 
